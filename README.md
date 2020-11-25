@@ -4,7 +4,7 @@ Refactory Assignment Code
 
 # Sorting Problem
 
-The code's solution is in [Sorting Solution](https://github.com/Doople1st/RefactoryAssignment/blob/master/Sorting.js)
+The code's solution is in [here](https://github.com/Doople1st/RefactoryAssignment/blob/master/Sorting.js)
 
 # Simple Client-Server app
 
